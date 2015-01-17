@@ -34,9 +34,10 @@ int main(){
   while (1){
     cout<<"slowo pl:"<<endl;
       cin>>pl;
-    if (pl=="1")
+    if (pl!="1")
       break;
     else{
+
       cout<<"slowo en:"<<endl;
       cin>>en;
 
